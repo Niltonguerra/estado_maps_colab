@@ -1,0 +1,21 @@
+nome,capacidade,latitude,longitude,,clube,treinador,capitão,divisão,site
+Maracanã,"78,838",-2.291.163,-4.323.083,,Flamengo,Rogério Ceni,Diego Alves,TRUE,https://www.flamengo.com.br/
+Mineirão,"62,16",-1.986.590,-4.397.111,,Palmeiras,Abel Ferreira,Gustavo Gómez,TRUE,https://www.palmeiras.com.br/
+Castelão,"63,903",-3.807.240,-3.852.240,,São Paulo,Hernán Crespo,Daniel Alves,TRUE,https://www.saopaulofc.net/
+Arena da Baixada,"43,981",-2.544.827,-4.927.711,,Atlético-MG,Cuca,Réver,TRUE,https://www.atletico.com.br/
+Allianz Parque,"43,713",-2.352.829,-4.667.903,,Internacional,Miguel Ángel Ramírez,Andrés D'Alessandro,TRUE,https://internacional.com.br/
+Arena Corinthians,"49,205",-2.354.539,-4.647.432,,Santos,Fernando Diniz,Alison,TRUE,https://www.santosfc.com.br/
+Beira-Rio,"50,128",-2.300.446,-4.556.935,,Fluminense,Roger Machado,Nino,TRUE,https://www.fluminense.com.br/
+Fonte Nova,"48,747",-1.297.894,-3.850.436,,Corinthians,Sylvinho,Fagner,TRUE,https://www.corinthians.com.br/
+Morumbi,"66,795",-2.360.027,-4.672.022,,Grêmio,Tiago Nunes,Pedro Geromel,TRUE,https://gremio.net/
+Arena do Grêmio,"55,662",-2.997.395,-5.119.477,,Athletico-PR,António Oliveira,Thiago Heleno,TRUE,https://www.athletico.com.br/
+Arena Pantanal,"41,112",-1.560.404,-5.612.160,,Bahia,Dado Cavalcanti,Conti,TRUE,https://www.esporteclubebahia.com.br/
+Serra Dourada,"41,574",-1.669.910,-4.923.422,,Ceará,Guto Ferreira,Messias,TRUE,https://www.cearasc.com/
+Mané Garrincha,"72,788",-1.578.363,-4.789.929,,Fortaleza,Juan Pablo Vojvoda,Tinga,TRUE,https://fortaleza1918.com.br/
+Arena Fonte Nova,"47,907",-1.297.894,-3.850.426,,Atlético-GO,Jorginho,Éder,TRUE,https://www.atleticogoianiense.com.br/
+Castelão (CE),"63,903",-3.807.326,-3.852.240,,Red Bull Bragantino,Maurício Barbieri,Fabrício Bruno,TRUE,https://www.redbullbragantino.com.br/
+Vila Belmiro,"16,256",-2.395.096,-4.633.880,,Sport Recife,Umberto Louzer,Thyere,FALSE,https://sportrecife.com.br/
+Ilha do Retiro,"31, 218",-8.062.757,-3.490.293,,Juventude,Marquinhos Santos,Rafael Forster,FALSE,https://www.juventude.com.br/
+Arena Condá,"19,3",-2.710.414,-5.260.699,,Avaí,Claudinei Oliveira,Betão,FALSE,https://www.avai.com.br/
+Pacaembu,"40,199",-2.354.829,-4.666.584,,Sampaio Corrêa,Felipe Surian,Eloir,FALSE,https://www.sampaiocorreafc.com.br/
+Barradão,"30,618",-1.291.934,-3.842.816,,CRB,Allan Aal,Diego Torres,FALSE,https://www.crbalagoas.com.br/
